@@ -31,13 +31,13 @@
 
 11- Add a new class file in the java folder. see my examplFileForBranch.java
 
-12- Change the name of the file and class 
+12- Change the name of the file and the class 
 
-13- In your Git tool add your change (stage it) then add a commit message ex:'Adding greeting from (your name)' any commits is okay
+13- In your Git tool add your change (stage it) then add a commit message ex:'Add a new File' any commits is okay
 
-14- push your change. (this will push the branch also and you can see it in online repo) 
+14- Push your Branch (publish it) for first time. (this will push the branch and the changes) 
 
-15- Always remember to do Git pull & Git fetch to get the last update.
+15- Always remember to do git fetch & git Pull to get the last update from remote repo.
  
 
    
