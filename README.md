@@ -11,6 +11,7 @@
    B- Use Git in your IDE 
    C- Use Command prompt 
    D- Use Git Bash 
+   Learn more about git Commands https://gist.github.com/hofmannsven/6814451
 
 5- To run the application you need to have an IDE in your PC. Install one from the following. 
 
