@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dffe6bb1-e368-487e-af76-d0ea3897e68a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/HelloPassengers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloPassengers.java" afterDir="false" />
-    </list>
+    <list default="true" id="dffe6bb1-e368-487e-af76-d0ea3897e68a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +96,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
